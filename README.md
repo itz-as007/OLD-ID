@@ -6,4 +6,4 @@ git clone https://github.com/itz-as007/OLD-ID
 
 cd OLD-ID
 
-python AS-007.py
+python 4-9old.py
